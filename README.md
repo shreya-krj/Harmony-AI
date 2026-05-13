@@ -1,4 +1,4 @@
-# Harmony AI 🕊️  
+# Harmony AI 
 ## AI-Powered Peace Building & Conflict Resolution Platform
 
 Harmony AI is an intelligent web-based platform designed to promote peaceful communication, conflict resolution, and community harmony using Artificial Intelligence and Natural Language Processing (NLP).
